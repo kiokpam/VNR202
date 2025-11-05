@@ -318,14 +318,28 @@ function onHotspotClick(hs, el) {
         try {
           const audio = new Audio(u);
           audio._src = u;
+          // mark as active immediately so stopSpeech() can cancel it if another click happens
+          activeAudio = audio; activeHotspotEl = el; el.classList.add('reading');
           audio.addEventListener('ended', () => { if (activeHotspotEl) activeHotspotEl.classList.remove('reading'); activeAudio = null; activeHotspotEl = null; });
           // try to play (must be triggered by user gesture - this click qualifies)
-          await audio.play();
-          activeAudio = audio; activeHotspotEl = el; el.classList.add('reading');
-          return true;
+          try {
+            await audio.play();
+            return true;
+          } catch (playErr) {
+            // playback failed; clear the active markers we set and try next candidate
+            if (activeHotspotEl === el) activeHotspotEl.classList.remove('reading');
+            if (activeAudio === audio) activeAudio = null;
+            activeHotspotEl = null;
+            console.warn('Audio play failed for', u, playErr);
+            continue;
+          }
         } catch (err) {
           // try next candidate
-          console.warn('Audio play failed for', u, err);
+          console.warn('Audio tryPlay outer error for', u, err);
+          // ensure we clear any partial active state
+          if (activeHotspotEl === el) activeHotspotEl.classList.remove('reading');
+          if (activeAudio && activeAudio._src === u) activeAudio = null;
+          activeHotspotEl = null;
           continue;
         }
       }
@@ -353,12 +367,24 @@ function onHotspotClick(hs, el) {
       try {
         const audio = new Audio(u);
         audio._src = u;
-        audio.addEventListener('ended', () => { if (activeHotspotEl) activeHotspotEl.classList.remove('reading'); activeAudio = null; activeHotspotEl = null; });
-        await audio.play();
+        // mark active immediately so stopSpeech() can work reliably
         activeAudio = audio; activeHotspotEl = el; el.classList.add('reading');
-        return true;
+        audio.addEventListener('ended', () => { if (activeHotspotEl) activeHotspotEl.classList.remove('reading'); activeAudio = null; activeHotspotEl = null; });
+        try {
+          await audio.play();
+          return true;
+        } catch (playErr) {
+          if (activeHotspotEl === el) activeHotspotEl.classList.remove('reading');
+          if (activeAudio === audio) activeAudio = null;
+          activeHotspotEl = null;
+          console.warn('Fallback audio play failed for', u, playErr);
+          continue;
+        }
       } catch (err) {
-        console.warn('Fallback audio play failed for', u, err);
+        console.warn('Fallback audio outer error for', u, err);
+        if (activeHotspotEl === el) activeHotspotEl.classList.remove('reading');
+        if (activeAudio && activeAudio._src === u) activeAudio = null;
+        activeHotspotEl = null;
         continue;
       }
     }
