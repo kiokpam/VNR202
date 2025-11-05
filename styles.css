@@ -1,0 +1,41 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin: 0; background: #f5f5f7; color: #111; }
+.app { max-width: 1100px; margin: 24px auto; padding: 16px; background: #fff; border-radius: 10px; box-shadow: 0 6px 20px rgba(15,15,15,0.08); }
+.header { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.controls button { padding: 8px 12px; font-size: 14px; border-radius: 6px; border: 1px solid #ddd; background: #fff; cursor: pointer; }
+.controls button:active { transform: translateY(1px); }
+.toolbar { display:flex; gap:12px; align-items:center; margin-top:10px; }
+.toolbar button, .toolbar .importLabel { padding:6px 10px; border-radius:6px; border:1px solid #ddd; background:#fff; cursor:pointer; }
+.toolbar .importLabel input { display:none; }
+.toolbar select { padding:6px 10px; border-radius:6px; border:1px solid #ddd; background:#fff; }
+.viewer { margin-top: 20px; min-height: 420px; display: flex; justify-content: center; align-items: flex-start; gap: 18px; }
+
+/* Floating nav buttons on left/right off the page */
+.nav-btn { position: fixed; top: 50%; transform: translateY(-50%); width:44px; height:44px; border-radius:22px; border:1px solid rgba(0,0,0,0.12); background:#fff; display:flex; align-items:center; justify-content:center; font-size:22px; box-shadow:0 6px 18px rgba(10,10,10,0.08); cursor:pointer; z-index:1200; }
+.nav-left { left: 8px; opacity: 0.95; }
+.nav-right { right: 8px; opacity: 0.95; }
+
+/* Slight hover/enlarge so users notice the controls */
+.nav-btn:hover { transform: translateY(-50%) scale(1.06); box-shadow:0 10px 24px rgba(10,10,10,0.16); }
+
+@media (max-width: 640px) {
+  .nav-left { left: 6px; }
+  .nav-right { right: 6px; }
+}
+.page { width: 48%; background: #fff; border: 1px solid #e3e3e6; padding: 12px; border-radius: 6px; box-shadow: 0 4px 12px rgba(10,10,10,0.03); display:flex; flex-direction:column; align-items:center; }
+.page.cover { width: 100%; max-width: 820px; display: block; }
+.page h2 { margin: 8px 0; font-size: 16px; }
+.image-container { position: relative; width: 100%; display:flex; justify-content:center; }
+.image-container img { max-width: 100%; height: auto; display:block; border-radius:4px; }
+.hotspot { position: absolute; border: 2px solid rgba(43,123,228,0.9); background: rgba(43,123,228,0.08); cursor: pointer; }
+.hotspot.reading { background: rgba(43,123,228,0.18); box-shadow: 0 2px 8px rgba(43,123,228,0.12); }
+.drawing-rect { position:absolute; border:2px dashed rgba(0,0,0,0.4); pointer-events:none; }
+.footer { display:flex; justify-content:space-between; align-items:center; margin-top:18px; color:#666; }
+.help { font-size: 13px; }
+.stop-btn { margin-left: 12px; padding:6px 10px; border-radius:6px; border:1px solid #ddd; background:#fff; cursor:pointer; }
+.voice-controls { margin-left: auto; display:flex; gap:8px; align-items:center; }
+.voice-controls label { font-size: 13px; display:flex; align-items:center; gap:6px; }
+@media (max-width: 840px) {
+  .viewer { flex-direction: column; align-items: center; }
+  .page { width: 100%; }
+}

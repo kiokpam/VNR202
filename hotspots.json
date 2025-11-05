@@ -1,0 +1,340 @@
+{
+  "pages": [
+    {
+      "title": "Cover",
+      "img": "1.png"
+    },
+    {
+      "title": "Page 2",
+      "img": "2.png"
+    },
+    {
+      "title": "Page 3",
+      "img": "3.png"
+    },
+    {
+      "title": "Page 4",
+      "img": "4.png"
+    },
+    {
+      "title": "Page 5",
+      "img": "5.png"
+    },
+    {
+      "title": "Page 6",
+      "img": "6.png"
+    },
+    {
+      "title": "Page 7",
+      "img": "7.png"
+    },
+    {
+      "title": "Page 8",
+      "img": "8.png"
+    },
+    {
+      "title": "Page 9",
+      "img": "9.png"
+    },
+    {
+      "title": "Page 10",
+      "img": "10.png"
+    },
+    {
+      "title": "Page 11",
+      "img": "11.png"
+    },
+    {
+      "title": "Page 12",
+      "img": "12.png"
+    }
+  ],
+  "hotspots": {
+    "2.png": [
+      {
+        "x": 0.5517420924574209,
+        "y": 0.1015893470790378,
+        "w": 0.3722627737226277,
+        "h": 0.048109965635738834,
+        "text": "TỔNG QUAN VỀ CÔNG CUỘC ĐỔI MỚI"
+      },
+      {
+        "x": 0.09265913757700206,
+        "y": 0.09175145348837209,
+        "w": 0.4394250513347023,
+        "h": 0.21220930232558138,
+        "text": "Ý NGHĨA CỦA ĐỔI MỚI: Công cuộc đổi mới mang tầm vóc và ý nghĩa cách mạng, là quá trình cải biến sâu sắc, toàn diện, triệt để; là sự nghiệp cách mạng to lớn của toàn Đảng, toàn dân vì mục tiêu \"dân giàu, nước mạnh, dân chủ, công bằng, văn minh\". Việt Nam đã đạt được những thành tựu to lớn, có ý nghĩa lịch sử trong suốt hành trình đổi mới."
+      },
+      {
+        "x": 0.5526180698151951,
+        "y": 0.35192587209302323,
+        "w": 0.3737166324435318,
+        "h": 0.1569767441860465,
+        "text": "Đồng thời với những thành tựu đạt được, công cuộc đổi mới cũng còn nhiều vấn đề lớn, phức tạp, nhiều hạn chế, yếu kém cần phải tập trung giải quyết, khắc phục. Đây là những thách thức đòi hỏi sự quyết tâm và nỗ lực của cả hệ thống chính trị và toàn thể nhân dân."
+      },
+      {
+        "x": 0.09471252566735112,
+        "y": 0.5496002906976745,
+        "w": 0.43121149897330596,
+        "h": 0.15988372093023256,
+        "text": "“…Trong lúc lật đổ những tường vách cũ kỹ và đang xây đắp những ngôi lâu đài mới thì chắc chắn không khỏi có những mụn bào gạch bể và những thứ ghét rác khác. Chúng ta sẽ quét sạch dần dần…” -  Trích trong thư của Chủ tịch Hồ Chí Minh trả lời ông Hoàng Phan Kính và ông Trần Lê Hữu."
+      },
+      {
+        "x": 0.08649897330595482,
+        "y": 0.7589026162790697,
+        "w": 0.8336755646817249,
+        "h": 0.07848837209302326,
+        "text": "Việc đánh giá đúng đắn thành tựu, rút ra kinh nghiệm và nhận diện hạn chế là cơ sở quan trọng để đưa đất nước phát triển nhanh và bền vững trong giai đoạn mới. Đây là nhiệm vụ chiến lược, có ý nghĩa quyết định đến tương lai của đất nước."
+      }
+    ],
+    "3.png": [
+      {
+        "x": 0.13017031630170317,
+        "y": 0.03629725085910653,
+        "w": 0.7128953771289538,
+        "h": 0.13402061855670103,
+        "text": "THÀNH TỰU TĂNG TRƯỞNG KINH TẾ"
+      },
+      {
+        "x": 0.040145985401459854,
+        "y": 0.17890893470790378,
+        "w": 0.43309002433090027,
+        "h": 0.19243986254295534,
+        "text": "Kinh tế tăng trưởng khá, thực lực của nền kinh tế tăng lên; kinh tế vĩ mô cơ bản ổn định; lạm phát được kiểm soát; tăng trưởng kinh tế được duy trì hợp lý và được đánh giá là thuộc nhóm nước có mức tăng trưởng khá cao trên thế giới. Đất nước đã ra khỏi tình trạng kém phát triển, bước vào nhóm nước đang phát triển có thu nhập trung bình."
+      },
+      {
+        "x": 0.5291970802919708,
+        "y": 0.17547250859106528,
+        "w": 0.4209245742092457,
+        "h": 0.21477663230240548,
+        "text": "Thời kỳ 2001-2005 đạt tốc độ tăng trưởng GDP bình quân năm là 7,5% và hai năm 2006-2010 tăng trưởng bình quân 5 năm đạt 7%/năm; trong 10 năm 2001-2010 tăng trưởng 7,26%/năm, đạt mục tiêu chiến lược đã đề ra; GDP 5 năm 2011-2015 bình quân 5,9%; năm 2018 đạt 6,7%. Việt Nam là một trong những nước có tốc độ tăng trưởng kinh tế nhanh so với các nước trong khu vực và thế giới."
+      },
+      {
+        "x": 0.037712895377128956,
+        "y": 0.8661941580756014,
+        "w": 0.9318734793187348,
+        "h": 0.10996563573883161,
+        "text": "Năm 2010, GDP đạt 101,6 tỷ USD, gấp 3,26 lần so với năm 2000 (31,2 tỷ USD). Năm 2008, GDP bình quân đầu người theo giá trị thực tế đã đạt 1.047 USD, năm 2010 đạt 1.168 USD, gấp khoảng 3 lần so với năm 2000. Năm 2018, GDP tăng trưởng đạt 7,08%, thu nhập bình quân đầu người đạt hơn 2.500 USD, khẳng định bước tiến vững chắc của nền kinh tế."
+      }
+    ],
+    "4.png": [
+      {
+        "x": 0.06512311435523115,
+        "y": 0.0895618556701031,
+        "w": 0.8832116788321168,
+        "h": 0.11512027491408934,
+        "text": "HÌNH THÀNH NỀN KINH TẾ THỊ TRƯỜNG"
+      },
+      {
+        "x": 0.011595182481751825,
+        "y": 0.26310137457044674,
+        "w": 0.4768856447688564,
+        "h": 0.17010309278350516,
+        "text": "Nền kinh tế thị trường định hướng xã hội chủ nghĩa đã từng bước hình thành và phát triển; thể chế kinh tế thị trường định hướng xã hội chủ nghĩa được quan tâm xây dựng và từng bước hoàn thiện. Tư tưởng, đường lối phát triển kinh tế thị trường định hướng xã hội chủ nghĩa đã từng bước được thể chế hoá thành pháp luật, cơ chế, chính sách."
+      },
+      {
+        "x": 0.03105985401459854,
+        "y": 0.7132731958762887,
+        "w": 0.41362530413625304,
+        "h": 0.20790378006872853,
+        "text": "Trong 30 năm đổi mới, Quốc hội đã ba lần sửa đổi và ban hành Hiến pháp, sửa đổi và ban hành trên 150 bộ luật và luật; Ủy ban Thường vụ Quốc hội ban hành trên 70 pháp lệnh, tạo cơ sở pháp lý cho sự chuyển đổi và vận hành của nền kinh tế thị trường định hướng xã hội chủ nghĩa. Các hình thức sở hữu, thành phần kinh tế và chế độ phân phối đã phát triển đa dạng."
+      },
+      {
+        "x": 0.4836155717761557,
+        "y": 0.751073883161512,
+        "w": 0.48905109489051096,
+        "h": 0.17525773195876287,
+        "text": "Các chủ thể kinh tế tự do kinh doanh và cạnh tranh theo quy định của pháp luật, ngày càng phát huy vai trò tích cực trong nền kinh tế quốc dân. Các yếu tố thị trường và các loại thị trường đang hình thành, phát triển, cơ bản đã có sự liên thông, gắn kết thị trường trong nước với thị trường khu vực và thị trường quốc tế. Hội nhập kinh tế quốc tế ngày càng sâu rộng theo nguyên tắc và chuẩn mực của thị trường thế giới."
+      }
+    ],
+    "5.png":[
+      {
+        "x": 0.057177615571776155,
+        "y": 0.06550687285223368,
+        "w": 0.4209245742092457,
+        "h": 0.23883161512027493,
+        "text": "PHÁT TRIỂN CƠ SỞ HẠ TẦNG VÀ văn HÓA -XÃ HỘI"
+      },
+      {
+        "x": 0.5121654501216545,
+        "y": 0.0586340206185567,
+        "w": 0.41605839416058393,
+        "h": 0.2663230240549828,
+        "text": "Cơ sở vật chất\nCơ sở vật chất, kỹ thuật, kết cấu hạ tầng, đô thị được đầu tư xây dựng tăng lên đáng kể, nhất là đường bộ, sân bay, bến cảng, cầu. Xây dựng các ngành công nghiệp hiện đại, dầu khí, điện với các nhà máy thủy điện lớn Hòa Bình, Sơn La, Trị An, Tuyên Quang, Lai Châu và nhiều nhà máy nhiệt điện, tạo nền tảng vững chắc cho sự phát triển."
+      },
+      {
+        "x": 0.08880778588807786,
+        "y": 0.6290807560137457,
+        "w": 0.34549878345498786,
+        "h": 0.3247422680412371,
+        "text": "Văn hóa - xã hội\n\nVăn hóa-xã hội có bước phát triển, bộ mặt đất nước và đời sống của nhân dân có nhiều thay đổi. Trong 30 năm đổi mới, Đảng đã ban hành 29 nghị quyết, kết luận, chỉ thị về văn hóa nói chung; về giáo dục, đào tạo; khoa học, công nghệ; báo chí, xuất bản, văn học, nghệ thuật. Những văn kiện đó đã thể hiện bước tiến về nhận thức lý luận của Đảng về văn hóa."
+      },
+      {
+        "x": 0.4391727493917275,
+        "y": 0.7459192439862543,
+        "w": 0.49391727493917276,
+        "h": 0.22508591065292097,
+        "text": "Bầu không khí xã hội dân chủ, cởi mở hơn; dân trí được nâng cao; tính tích cực cá nhân và xã hội được phát huy. Quyền tự do sáng tạo, quảng bá văn hóa, văn học, nghệ thuật được tôn trọng; quyền tự do tín ngưỡng, tôn giáo và sinh hoạt tâm linh của nhân dân được quan tâm thực hiện. Phong trào \"Toàn dân đoàn kết xây dựng đời sống văn hóa\", \"Xây dựng nông thôn mới\" và các phong trào xóa đói giảm nghèo đạt được những kết quả tích cực."
+      }
+    ],
+    "6.png": [
+      {
+        "x": 0.11865109489051094,
+        "y": 0.27341065292096217,
+        "w": 0.7956204379562044,
+        "h": 0.070446735395189,
+        "text": "THÀNH TỰU VỀ XÃ HỘI VÀ GIẢM NGHÈO"
+      },
+      {
+        "x": 0.5517420924574209,
+        "y": 0.3558848797250859,
+        "w": 0.3722627737226277,
+        "h": 0.19072164948453607,
+        "text": "Việc giải quyết các vấn đề xã hội đã đạt được nhiều thành tựu quan trọng. Các chính sách về lao động và việc làm của Nhà nước đã chuyển biến theo hướng ngày càng phù hợp hơn với nền kinh tế thị trường định hướng xã hội chủ nghĩa. Mỗi năm bình quân tạo ra 1,5-1,6 triệu việc làm mới, góp phần nâng cao đời sống nhân dân."
+      },
+      {
+        "x": 0.08702092457420925,
+        "y": 0.5517611683848798,
+        "w": 0.8540145985401459,
+        "h": 0.08419243986254296,
+        "text": "Chỉ số phát triển con người tăng lên, từ 0,683 năm 2000 lên 0,733 năm 2008, xếp thứ 100/177 nước tham gia xếp hạng. Chênh lệch thu nhập giữa thành thị và nông thôn giảm từ 2,3 lần năm 1999 xuống còn 2 lần năm 2008. Tỷ lệ hộ nghèo cả nước giảm bình quân 1,5-2%/năm. Tỷ lệ nghèo của cả nước năm 1993 là 58% đến năm 2018 còn khoảng 6%."
+      },
+      {
+        "x": 0.08702092457420925,
+        "y": 0.6462628865979382,
+        "w": 0.8442822384428224,
+        "h": 0.08419243986254296,
+        "text": "Đến năm 2018, hơn 40% số xã đạt chuẩn nông thôn mới theo 19 tiêu chí Chính phủ đề ra. Việt Nam đã đạt phổ cập trung học cơ sở và hoàn thành phần lớn mục tiêu Thiên niên kỷ do Liên hợp quốc đề ra cho năm 2015. Thành tựu về giảm nghèo của Việt Nam đã được Liên hợp quốc và cộng đồng quốc tế công nhận, đánh giá cao."
+      }
+    ],
+    "7.png":[
+      {
+        "x": 0.3223844282238443,
+        "y": 0.13767182130584193,
+        "w": 0.6423357664233577,
+        "h": 0.08247422680412371,
+        "text": "QUỐC PHÒNG, AN NINH VÀ ĐỐI NGOẠI"
+      },
+      {
+        "x": 0.42700729927007297,
+        "y": 0.28371993127147765,
+        "w": 0.5304136253041363,
+        "h": 0.1872852233676976,
+        "text": "Giữ vững quốc phòng, an ninh, bảo vệ vững chắc Tổ quốc ngày càng được hoàn thiện. Nhận thức ngày càng rõ hơn bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là một trong hai nhiệm vụ chiến lược, có mối quan hệ biện chứng, không thể tách rời. Đảng khẳng định: phát triển kinh tế là trung tâm, xây dựng Đảng là then chốt, phát triển văn hóa là nền tảng tinh thần của xã hội, củng cố quốc phòng, an ninh là nhiệm vụ trọng yếu, thường xuyên."
+      },
+      {
+        "x": 0.4245742092457421,
+        "y": 0.4899054982817869,
+        "w": 0.5328467153284672,
+        "h": 0.13745704467353953,
+        "text": "Việc kết hợp hai nhiệm vụ xây dựng và bảo vệ Tổ quốc có chuyển biến quan trọng; nhất là kết quả về hoàn thành phân giới, cắm mốc đường biên giới trên bộ, phân định ở Vịnh Bắc Bộ với Trung Quốc; từng bước hoàn thiện việc phân giới, cắm mốc đường biên giới trên bộ với Lào, Campuchia. Những kết quả này góp phần nâng cao thế và lực của đất nước."
+      },
+      {
+        "x": 0.4829683698296837,
+        "y": 0.6875,
+        "w": 0.46228710462287104,
+        "h": 0.16838487972508592,
+        "text": "Đối ngoại đạt nhiều thành tựu mới. Từ định hướng \"đoàn kết và hợp tác toàn diện với Liên Xô\" từng bước chuyển sang đa dạng hóa, đa phương hóa các quan hệ đối ngoại. Đến năm 2018, Việt Nam có quan hệ ngoại giao với 188 nước trong tổng số 193 nước thành viên Liên hợp quốc. Đã thiết lập quan hệ đối tác chiến lược với 16 nước, quan hệ đối tác toàn diện với 11 nước."
+      }
+    ],
+    "8.png":[
+      {
+        "x": 0.004295912408759124,
+        "y": 0.0586340206185567,
+        "w": 0.6690997566909975,
+        "h": 0.07903780068728522,
+        "text": "HỘI NHẬP QUỐC TẾ VÀ XÂY DỰNG NHÀ NƯỚC"
+      },
+      {
+        "x": 0.03349294403892944,
+        "y": 0.17375429553264604,
+        "w": 0.5888077858880778,
+        "h": 0.18384879725085912,
+        "text": "Nâng cao hình ảnh và vị thế của Việt Nam trên trường quốc tế, đóng góp ngày càng tích cực, có trách nhiệm vào đời sống chính trị khu vực và thế giới. Việt Nam là Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc nhiệm kỳ 2008-2009 và được bầu lại nhiệm kỳ 2020-2021 với số phiếu cao 192/193. Việt Nam tổ chức thành công Hội nghị cấp cao APEC năm 2006 và năm 2017."
+      },
+      {
+        "x": 0.026193673965936737,
+        "y": 0.5706615120274914,
+        "w": 0.6082725060827251,
+        "h": 0.16151202749140894,
+        "text": "Nhận thức về xây dựng và phát huy dân chủ, đổi mới hệ thống chính trị, xây dựng Nhà nước pháp quyền xã hội chủ nghĩa có nhiều tiến bộ. Đảng đã nhận thức ngày càng sâu sắc hơn tầm quan trọng và vai trò của xây dựng và phát huy dân chủ xã hội chủ nghĩa, khẳng định dân chủ là bản chất của chế độ, vừa là mục tiêu vừa là động lực của công cuộc đổi mới."
+      },
+      {
+        "x": 0.026193673965936737,
+        "y": 0.7596649484536082,
+        "w": 0.6034063260340633,
+        "h": 0.1718213058419244,
+        "text": "Đảng đã nhận thức rõ hơn cơ chế vận hành của hệ thống chính trị: \"Đảng lãnh đạo, Nhà nước quản lý, nhân dân làm chủ\". Đã nhận thức được tính tất yếu khách quan của việc xây dựng Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam, vừa tiếp thu thành tựu của nhân loại về nhà nước pháp quyền, vừa thể hiện bản sắc, đặc điểm riêng của Việt Nam"
+      }
+    ],
+    "9.png":[
+      {
+        "x": 0.010948905109489052,
+        "y": 0.11189862542955327,
+        "w": 0.49635036496350365,
+        "h": 0.13917525773195877,
+        "text": "HẠN CHẾ VÀ NGUYÊN NHÂN"
+      },
+      {
+        "x": 0.030413625304136254,
+        "y": 0.27169243986254293,
+        "w": 0.4744525547445255,
+        "h": 0.16494845360824742,
+        "text": "Công tác tổng kết thực tiễn, nghiên cứu lý luận còn bất cập, chưa làm rõ một số vấn đề đặt ra trong quá trình đổi mới để định hướng trong thực tiễn. Kinh tế phát triển chưa bền vững, chưa tương xứng với tiềm năng, yêu cầu và thực tế nguồn lực được huy động. Trong 10 năm gần đây, kinh tế vĩ mô thiếu ổn định, tốc độ tăng trưởng kinh tế suy giảm, phục hồi chậm."
+      },
+      {
+        "x": 0.045012165450121655,
+        "y": 0.7064003436426117,
+        "w": 0.45012165450121655,
+        "h": 0.17525773195876287,
+        "text": "Nhiều vấn đề tiêu cực nảy sinh, nhất là các vấn đề xã hội và quản lý xã hội chưa được nhận thức đầy đủ và giải quyết có hiệu quả. Năng lực và hiệu quả hoạt động của hệ thống chính trị chưa ngang tầm nhiệm vụ. Việc tạo nền tảng để cơ bản trở thành một nước công nghiệp theo hướng hiện đại không đạt được mục tiêu đề ra."
+      },
+      {
+        "x": 0.5291970802919708,
+        "y": 0.7167096219931272,
+        "w": 0.45985401459854014,
+        "h": 0.15807560137457044,
+        "text": "Bốn nguy cơ mà Hội nghị đại biểu toàn quốc giữa nhiệm kỳ khóa VII của Đảng (năm 1994) nêu lên vẫn tồn tại, có mặt diễn biến phức tạp. Niềm tin của cán bộ, đảng viên và nhân dân vào Đảng, chế độ có mặt bị giảm sút. Những hạn chế này có cả nguyên nhân khách quan và chủ quan, trong đó nguyên nhân chủ quan là chủ yếu."
+      }
+    ],
+    "10.png":[
+      {
+        "x": 0.028626763990267638,
+        "y": 0.20811855670103094,
+        "w": 0.51338199513382,
+        "h": 0.12199312714776632,
+        "text": "KINH NGHIỆM LÃNH ĐẠO ĐỔI MỚI"
+      },
+      {
+        "x": 0.006729002433090025,
+        "y": 0.33698453608247425,
+        "w": 0.5304136253041363,
+        "h": 0.6288659793814433,
+        "text": "Kinh nghiệm thứ nhất: Trong quá trình đổi mới phải chủ động, không ngừng sáng tạo trên cơ sở kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội, vận dụng sáng tạo và phát triển chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh. Đổi mới không phải là từ bỏ mục tiêu của chủ nghĩa xã hội, mà là làm cho chủ nghĩa xã hội được nhận thức đúng đắn hơn và được xây dựng có hiệu quả hơn.\n\nKinh nghiệm thứ hai: Đổi mới phải luôn luôn quán triệt quan điểm \"dân là gốc\", vì lợi ích của nhân dân, dựa vào nhân dân, phát huy vai trò làm chủ, tinh thần trách nhiệm, sức sáng tạo và mọi nguồn lực của nhân dân. Dân chủ xã hội chủ nghĩa là bản chất của chế độ ta, vừa là mục tiêu, vừa là động lực của sự phát triển đất nước.\n\nKinh nghiệm thứ ba: Đổi mới phải toàn diện, đồng bộ, có bước đi phù hợp; phải tôn trọng quy luật khách quan, xuất phát từ thực tiễn, bám sát thực tiễn, coi trọng tổng kết thực tiễn, nghiên cứu lý luận. Phải đổi mới toàn diện, đồng bộ trên tất cả các lĩnh vực của đời sống xã hội; từ nhận thức, tư tưởng đến hoạt động thực tiễn.\n\nKinh nghiệm thứ tư: Phải đặt lợi ích quốc gia-dân tộc lên trên hết; kiên định độc lập, tự chủ, đồng thời chủ động và tích cực hội nhập quốc tế trên cơ sở bình đẳng, cùng có lợi. Kết hợp phát huy sức mạnh dân tộc với sức mạnh thời đại để xây dựng và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa.\n\nKinh nghiệm thứ năm: Phải thường xuyên tự đổi mới, tự chỉnh đốn, nâng cao năng lực lãnh đạo và sức chiến đấu của Đảng; xây dựng đội ngũ cán bộ, nhất là đội ngũ cán bộ cấp chiến lược, đủ năng lực và phẩm chất, ngang tầm nhiệm vụ. Công cuộc đổi mới là sự nghiệp vĩ đại, sự lãnh đạo đúng đắn của Đảng là nhân tố quyết định thành công."
+      },
+      {
+        "x": 0.5566082725060827,
+        "y": 0.539733676975945,
+        "w": 0.36496350364963503,
+        "h": 0.17525773195876287,
+        "text": "“Đổi mới sáng tạo không phải là công việc riêng của ngành khoa học công nghệ mà phải là sự nghiệp của toàn dân, của toàn xã hội, đòi hỏi sự tham gia của mọi cấp, mọi ngành, cộng đồng doanh nghiệp thuộc mọi thành phần kinh tế và của tất cả mọi người dân.” - Tổng bí thư Tô Lâm."
+      },
+      {
+        "x": 0.5420097323600973,
+        "y": 0.7699742268041238,
+        "w": 0.40389294403892945,
+        "h": 0.18384879725085912,
+        "text": "Với thành công của công cuộc đổi mới, nhận thức về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam ngày càng rõ hơn. Đổi mới đã tạo thế và lực mới của đất nước, khẳng định cơ sở vững chắc để Việt Nam có thể phát triển nhanh, bền vững, xứng đáng với lịch sử anh hùng, vẻ vang của Đảng và dân tộc."
+      }
+    ],
+    "12.png":[
+      {
+        "x": 0.06801848049281314,
+        "y": 0.6687863372093024,
+        "w": 0.8747433264887063,
+        "h": 0.2616279069767442,
+        "text": "Sau hơn 35 năm đổi mới, những thành tựu to lớn đạt được là minh chứng sinh động, thuyết phục cho sự đúng đắn của đường lối đổi mới, của con đường quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở nước ta. Đây là niềm tự hào của toàn Đảng, toàn dân, toàn quân ta, là cơ sở vững chắc để chúng ta kiên định con đường đã chọn, kiên trì mục tiêu độc lập dân tộc và chủ nghĩa xã hội. Trong giai đoạn mới, với quyết tâm chính trị cao, với khát vọng phát triển đất nước phồn vinh, hạnh phúc, toàn Đảng, toàn dân, toàn quân ta tiếp tục phát huy truyền thống yêu nước, ý chí tự lực, tự cường, đoàn kết, thống nhất, nỗ lực phấn đấu thực hiện thắng lợi mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh, sớm đưa nước ta trở thành nước công nghiệp theo hướng hiện đại, vững bước đi lên chủ nghĩa xã hội."
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tạp chí chính trị</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <h1>Magazine Viewer</h1>
+    </header>
+
+    <main id="viewer" class="viewer" aria-live="polite">
+      <!-- pages will be rendered here -->
+    </main>
+
+    <!-- Floating navigation buttons (left/right, off the page) -->
+    <button id="prevBtn" class="nav-btn nav-left" aria-label="Previous page">‹</button>
+    <button id="nextBtn" class="nav-btn nav-right" aria-label="Next page">›</button>
+
+    <footer class="footer">
+      <small id="pageIndicator">Page 0 / 0</small>
+      <div class="help">Click hotspots to hear passages. Use Edit Hotspots to create regions and attach text.</div>
+      <button id="stopBtn" class="stop-btn">Stop</button>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
